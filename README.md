@@ -13,7 +13,7 @@ Day 1:
   This day of the challenge focused on learning the commands used for viewing the server info such as: ip addresses, 
   users, the architecture, devices, resource comsumption and bandwidth.
   I created a dictionary of the main commands used in day 1, please find this in the attatched notion file below:
-  https://www.notion.so/Day-1-Dictionary-239d21d4828a80b48c3efb4cf0711a58?
+  https://www.notion.so/Day-1-Dictionary-239d21d4828a80b48c3efb4cf0711a58
 
 Day 2:
   This day focused on the basic navigation and manipulation of the Linux system.
@@ -21,7 +21,7 @@ Day 2:
   As well as this it introduced me to manuals through the "man" command showing me how to troubleshoot when im stuck
   and learn more about the system.
   The dictionary containing the main commands from day 2 is attached in the notion fole below:
-  https://www.notion.so/Day-2-Dictionary-239d21d4828a8037ae53fb59014162c4?
+  https://www.notion.so/Day-2-Dictionary-239d21d4828a8037ae53fb59014162c4
 
 Day 3:
   I am currntly working on the content from day 3.
