@@ -80,8 +80,62 @@ Day 11:
   sizes, last edited date and extensions. I also learned to use 'grep -R' to recurively serach directories 
   for specific phrases, and i also used the 'which' command to find where commands are run from.
   Notion dictionary for day 11:
-  https://www.notion.so/Day-11-Dictionary-254d21d4828a80429791c0335031a4be?source=copy_link
+  https://www.notion.so/Day-11-Dictionary-254d21d4828a80429791c0335031a4be
   
 Day 12:
-  I am currntly working on the content from day 12.
-  Please check back later as I will upload more once completed.
+  In day 12 i installed WinSCP to use as a GUI assistant to transfer files from my Linux server to my windows PC via SFTP. 
+  I could also create folders under the home directory and upload data such as images.
+  There was no dictionary for day 12
+
+Day 13:
+  Day 13 talks about adding new users to the system and groups like sudo.
+  Notion dictionary for day 13:
+  https://www.notion.so/Day-13-dictionary-256d21d4828a80039c74f51f06065991
+
+Day 14:
+  Day 14 talks about permissions including viewing them using “ls -l”, changing the ownership of a file with “chown” and 
+  changing permissions using “chmod”. As well as this i learned to read the UGO output of “ls -l” so that I can understand 
+  what it means so I can change the relevant ownership details.
+  Notion dictionary for day 14:
+  https://www.notion.so/Day-14-Dictionary-259d21d4828a80e299e1fa256e6250f1
+
+Day 15:
+  This day focuses on repositories, it talks about the file /etc/apt/sources.list.d/ubuntu.sources which contains a list of 
+  repositories or software channels. The guide I am following seemed to be out of date for this day so I needed to do deeper 
+  research into multiverse and universe to understand how to enable them and found they were already enabled on my 
+  installation of ubuntu.
+  Notion dictionary for day 15:
+  https://www.notion.so/Day-15-Dictionary-25ed21d4828a80ddae1ad3d4f6f6210a
+
+Day 16
+  This day focuses on compression of files in more detail, involving how to compress using tar (same as day 10) but includes 
+  how to archive and compress separately using gzip. This day also talks about how to extract from both uncompressed and 
+  compressed files
+  Notion dictionary for day 16:
+  https://www.notion.so/Day-16-Dictionary-25ed21d4828a8049ac8fcc7e8ae951f2
+
+Day 17:
+  In day 17 I looked at installing files/packages from the internet instead of using ‘apt install’ command 
+  (practicing by installing nmap). This involved the use of ‘wget’, tar extraction of bzip2 compressed files, as well as 
+  reading source files and following the installation instructions and what the standard process for this is, understanding 
+  each step.
+  Notion dictionary for day 17:
+  https://www.notion.so/Day-17-Dictionary-262d21d4828a80eb96d6f7069dcd21d8
+
+Day 18:
+  Day 18 didn’t include any new commands but instead explored the systems log files including cron.daily and logrotate to 
+  understand how the system keeps logs in check by managing how many days of logs to keep, splitting them into manageable 
+  files and compressing them to save space. As well as this i discovered that ‘la’ can be used instead of ‘ls -a’
+  There was no dictionary for day 18
+
+Day 19:
+  This day talks about soft/symbolic links and hard links giving details on how they work, when they would be used, how to 
+  create them and how to check they exist.
+  Notion dictionary for day 19:
+  https://www.notion.so/Day-19-Dictionary-264d21d4828a8061ac43dffd4281ea72
+  
+Day 20:
+  This day talks about bash scripting: creating file and making them executable to either automate or make tasks easier and 
+  quicker to run.
+  Notion dictionary for day 20:
+  https://www.notion.so/Day-20-Dictionary-266d21d4828a808dae49fdecd33fc814
